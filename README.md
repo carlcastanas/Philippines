@@ -1,7 +1,7 @@
-| No. | Name               | Social Media                           |
-|-----|--------------------|------------------------------------------------------|
-| 1   | Carl Castañas           | [Twitter](https://twitter.com/johndoe)              |
-| 2   | Jane Smith         | [Instagram](https://www.instagram.com/janesmith)    |
-| 3   | Alex Johnson       | [YouTube](https://www.youtube.com/alexjohnson)      |
-| 4   | Emily Taylor       | [Facebook](https://www.facebook.com/emilytaylor)    |
-| 5   | Michael Rodriguez  | [LinkedIn](https://www.linkedin.com/in/michaelrodriguez) |
+| No. | Name               | Social Media Logos                                             |
+|-----|--------------------|-----------------------------------------------------------------|
+| 1   | John Doe           | [![Twitter](https://img.shields.io/badge/twitter-blue?logo=twitter)](https://twitter.com/johndoe) [![Instagram](https://img.shields.io/badge/instagram-pink?logo=instagram)](https://www.instagram.com/johndoe) [![YouTube](https://img.shields.io/badge/youtube-red?logo=youtube)](https://www.youtube.com/johndoe) [![Facebook](https://img.shields.io/badge/facebook-blue?logo=facebook)](https://www.facebook.com/johndoe) [![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/johndoe) |
+| 2   | Jane Smith         | [![Twitter](https://img.shields.io/badge/twitter-blue?logo=twitter)](https://twitter.com/janesmith) [![Instagram](https://img.shields.io/badge/instagram-pink?logo=instagram)](https://www.instagram.com/janesmith) [![YouTube](https://img.shields.io/badge/youtube-red?logo=youtube)](https://www.youtube.com/janesmith) [![Facebook](https://img.shields.io/badge/facebook-blue?logo=facebook)](https://www.facebook.com/janesmith) [![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/janesmith) |
+| 3   | Alex Johnson       | [![Twitter](https://img.shields.io/badge/twitter-blue?logo=twitter)](https://twitter.com/alexjohnson) [![Instagram](https://img.shields.io/badge/instagram-pink?logo=instagram)](https://www.instagram.com/alexjohnson) [![YouTube](https://img.shields.io/badge/youtube-red?logo=youtube)](https://www.youtube.com/alexjohnson) [![Facebook](https://img.shields.io/badge/facebook-blue?logo=facebook)](https://www.facebook.com/alexjohnson) [![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/alexjohnson) |
+| 4   | Emily Taylor       | [![Twitter](https://img.shields.io/badge/twitter-blue?logo=twitter)](https://twitter.com/emilytaylor) [![Instagram](https://img.shields.io/badge/instagram-pink?logo=instagram)](https://www.instagram.com/emilytaylor) [![YouTube](https://img.shields.io/badge/youtube-red?logo=youtube)](https://www
+
